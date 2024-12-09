@@ -24,7 +24,6 @@ app.set('io', io);
 // Define your routes here
 const exampleRoutes = require('./routes/exampleRoutes');
 const greenboneRoutes = require('./routes/greenboneRoutes');
-app.use('/api/example', exampleRoutes);
 app.use('/api/greenbone', greenboneRoutes);
 
 // Start the server

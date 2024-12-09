@@ -2,9 +2,9 @@
 
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { BarChart, AreaChart, DonutChart, Card, Title } from "@tremor/react";
-import SeverityBar from "../Charts/bar/PortBar";
-import CVSSAreaChart from "../Charts/area/CVSSAreaChart";
+// import { BarChart, AreaChart, DonutChart, Card, Title } from "@tremor/react";
+// import SeverityBar from "../Charts/bar/PortBar";
+// import CVSSAreaChart from "../Charts/area/CVSSAreaChart";
 import SeverityDonut from "../Charts/donuts/SeverityDonut";
 import PortBarChart from "../Charts/bar/PortBar";
 import CvssDonut from "../Charts/donuts/CVSSDonut";

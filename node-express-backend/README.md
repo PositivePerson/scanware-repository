@@ -1,1 +1,1 @@
-# inzynierka-v2-backend
+# scanware-project-backend
